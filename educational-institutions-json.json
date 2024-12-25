@@ -1,0 +1,430 @@
+{
+  "institutions": [
+    {
+      "id": 1,
+      "name": "תלפיות – המכללה האקדמית לחינוך",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 2,
+      "name": "שנקר. הנדסה. עיצוב. אמנות",
+      "type": "college",
+      "category": "engineering_art_design"
+    },
+    {
+      "id": 3,
+      "name": "עזריאלי- מכללה אקדמית להנדסה ירושלים",
+      "type": "college",
+      "category": "engineering"
+    },
+    {
+      "id": 4,
+      "name": "סמינר הקיבוצים – המכללה לחינוך לטכנולוגיה ולאומנויות",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 5,
+      "name": "מכללת רידמן לרפואה משלימה ואינטגרטיבית",
+      "type": "college",
+      "category": "alternative_medicine"
+    },
+    {
+      "id": 6,
+      "name": "מכללת עתיד חיפה",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 7,
+      "name": "מכללת עתיד באר שבע",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 8,
+      "name": "מכללת סכנין להכשרת עובדי הוראה",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 9,
+      "name": "מכללת לוינסקי לחינוך",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 10,
+      "name": "מכללת ליפשיץ",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 11,
+      "name": "מכללה ירושלים",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 12,
+      "name": "מכללה אקדמית לחינוך \"אורנים\"",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 13,
+      "name": "מכללה אקדמית לחינוך – אורות ישראל מיסודן של מכללת אורות ישראל ומכללת מורשת יעקב",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 14,
+      "name": "מכון שכטר למדעי היהדות",
+      "type": "institute",
+      "category": "jewish_studies"
+    },
+    {
+      "id": 15,
+      "name": "מכון טכנולוגי חולון – HIT",
+      "type": "institute",
+      "category": "technology"
+    },
+    {
+      "id": 16,
+      "name": "מכון ויצמן למדע",
+      "type": "institute",
+      "category": "science"
+    },
+    {
+      "id": 17,
+      "name": "הקריה האקדמית אונו",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 18,
+      "name": "הנדסאים תל אביב",
+      "type": "college",
+      "category": "engineering"
+    },
+    {
+      "id": 19,
+      "name": "המרכז האקדמי שערי מדע ומשפט",
+      "type": "center",
+      "category": "law_science"
+    },
+    {
+      "id": 20,
+      "name": "המרכז האקדמי שלם",
+      "type": "center",
+      "category": "general"
+    },
+    {
+      "id": 21,
+      "name": "המרכז האקדמי רופין",
+      "type": "center",
+      "category": "general"
+    },
+    {
+      "id": 22,
+      "name": "המרכז האקדמי פרס",
+      "type": "center",
+      "category": "general"
+    },
+    {
+      "id": 23,
+      "name": "המרכז האקדמי לעיצוב ולחינוך ויצו – חיפה ע\"ש נרי בלומפילד",
+      "type": "center",
+      "category": "design_education"
+    },
+    {
+      "id": 24,
+      "name": "המרכז האקדמי למשפט ולעסקים",
+      "type": "center",
+      "category": "law_business"
+    },
+    {
+      "id": 25,
+      "name": "המרכז האקדמי לוינסקי-וינגייט",
+      "type": "center",
+      "category": "education_sports"
+    },
+    {
+      "id": 26,
+      "name": "המרכז האקדמי לב",
+      "type": "center",
+      "category": "general"
+    },
+    {
+      "id": 27,
+      "name": "המסלול האקדמי המכללה למינהל",
+      "type": "college",
+      "category": "management"
+    },
+    {
+      "id": 28,
+      "name": "המכללה הטכנולוגית באר שבע",
+      "type": "college",
+      "category": "technology"
+    },
+    {
+      "id": 29,
+      "name": "המכללה האקדמית תל-אביב יפו",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 30,
+      "name": "המכללה האקדמית תל חי",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 31,
+      "name": "המכללה האקדמית צפת",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 32,
+      "name": "המכללה האקדמית עמק יזרעאל ע\"ש מקס שטרן",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 33,
+      "name": "המכללה האקדמית ספיר",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 34,
+      "name": "המכללה האקדמית נתניה",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 35,
+      "name": "המכללה האקדמית לישראל ברמת-גן",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 36,
+      "name": "המכללה האקדמית לחינוך ע\"ש קיי",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 37,
+      "name": "המכללה האקדמית לחינוך ע\"ש דוד ילין",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 38,
+      "name": "המכללה האקדמית לחינוך ע\"ש א. ד. גורדון",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 39,
+      "name": "המכללה האקדמית לחינוך ולספורט אוהלו בקצרין",
+      "type": "college",
+      "category": "education_sports"
+    },
+    {
+      "id": 40,
+      "name": "המכללה האקדמית לחינוך גבעת וושינגטון",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 41,
+      "name": "המכללה האקדמית להנדסה ע\"ש סמי שמעון",
+      "type": "college",
+      "category": "engineering"
+    },
+    {
+      "id": 42,
+      "name": "המכללה האקדמית להנדסה אורט בראודה",
+      "type": "college",
+      "category": "engineering"
+    },
+    {
+      "id": 43,
+      "name": "המכללה האקדמית כנרת",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 44,
+      "name": "המכללה האקדמית חמדת",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 45,
+      "name": "המכללה האקדמית הרצוג מיסודן של מכללות ליפשיץ והרצוג",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 46,
+      "name": "המכללה האקדמית הערבית לחינוך בישראל – חיפה",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 47,
+      "name": "המכללה האקדמית הדתית לחינוך שאנן",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 48,
+      "name": "המכללה האקדמית הדסה ירושלים",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 49,
+      "name": "המכללה האקדמית גליל מערבי",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 50,
+      "name": "המכללה האקדמית בית-ברל",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 51,
+      "name": "המכללה האקדמית בוינגייט",
+      "type": "college",
+      "category": "sports"
+    },
+    {
+      "id": 52,
+      "name": "המכללה האקדמית אשקלון",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 53,
+      "name": "המכללה האקדמית אחוה",
+      "type": "college",
+      "category": "general"
+    },
+    {
+      "id": 54,
+      "name": "היחידה ללימודי חוץ אשקלון",
+      "type": "unit",
+      "category": "external_studies"
+    },
+    {
+      "id": 55,
+      "name": "הטכניון – מכון טכנולוגי לישראל",
+      "type": "university",
+      "category": "technology"
+    },
+    {
+      "id": 56,
+      "name": "האקר-יו",
+      "type": "college",
+      "category": "technology"
+    },
+    {
+      "id": 57,
+      "name": "האקדמיה למוסיקה ולמחול בירושלים",
+      "type": "academy",
+      "category": "arts_music"
+    },
+    {
+      "id": 58,
+      "name": "האוניברסיטה הפתוחה",
+      "type": "university",
+      "category": "general"
+    },
+    {
+      "id": 59,
+      "name": "האוניברסיטה העברית בירושלים",
+      "type": "university",
+      "category": "general"
+    },
+    {
+      "id": 60,
+      "name": "ג'ון ברייס הדרכה",
+      "type": "training_center",
+      "category": "technology"
+    },
+    {
+      "id": 61,
+      "name": "בצלאל – אקדמיה לאמנות ועיצוב ירושלים",
+      "type": "academy",
+      "category": "art_design"
+    },
+    {
+      "id": 62,
+      "name": "אפקה – המכללה האקדמית להנדסה בתל-אביב",
+      "type": "college",
+      "category": "engineering"
+    },
+    {
+      "id": 63,
+      "name": "אמונה-אפרתה – מכללה אקדמית לאמנויות וחינוך",
+      "type": "college",
+      "category": "education_arts"
+    },
+    {
+      "id": 64,
+      "name": "אלקאסמי – מכללה אקדמית לחינוך",
+      "type": "college",
+      "category": "education"
+    },
+    {
+      "id": 65,
+      "name": "אוניברסיטת תל אביב",
+      "type": "university",
+      "category": "general"
+    },
+    {
+      "id": 66,
+      "name": "אוניברסיטת רייכמן",
+      "type": "university",
+      "category": "general"
+    },
+    {
+      "id": 67,
+      "name": "אוניברסיטת חיפה",
+      "type": "university",
+      "category": "general"
+    },
+    {
+      "id": 68,
+      "name": "אוניברסיטת בר-אילן",
+      "type": "university",
+      "category": "general"
+    },
+    {
+      "id": 69,
+      "name": "אוניברסיטת בן-גוריון בנגב",
+      "type": "university",
+      "category": "general"
+    },
+    {
+      "id": 70,
+      "name": "אוניברסיטת אריאל שבשומרון",
+      "type": "university",
+      "category": "general"
+    },
+    {
+      "id": 71,
+      "name": "אחר",
+      "type": "other",
+      "category": "other"
+    }
+  ]
+}
